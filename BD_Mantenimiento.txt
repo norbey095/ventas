@@ -1,0 +1,167 @@
+drop database if exists mantenimiento;
+create database mantenimiento;
+use mantenimiento
+
+
+create table empleado (
+codigoemp varchar (10) not null, 
+nombre varchar (30),
+apellido varchar(30),
+direccion varchar (20),
+telefono varchar (10),
+cargo varchar (20),
+primary key (codigoemp)) ENGINE=InnoDB;
+
+describe empleado;
+ 
+create table usuarios(
+nitUsuario int not null primary key,
+nombreU varchar(30) not null,
+direccionU varchar(30) not null,
+telefonoU varchar(30) not null,
+emailU varchar(30) not null
+)engine=innodb;
+
+describe usuarios;
+
+create table ventas(
+codigoVen int not null primary key,
+codigoProd int not null,
+cedulaU int not null,
+fechaVen date not null,
+tipoVen varchar(40)not null,
+producto varchar(40)not null,
+cantidadp int not null,
+valorpro int not null) ENGINE=Innodb;
+
+describe ventas;
+
+create table zonaventas (
+codiven varchar (5) comment 'clave primaria',
+nom_vendedor varchar (30),
+ciudad_venta varchar (20),
+direccion_venta varchar (10),
+primary key (codiven)) ENGINE=InnoDB;
+
+describe zonaventas;
+
+create table Pedido(
+Npedido int not null,
+FechaPedido date,
+CodigoVen int not null,
+CedCliente int not null,
+FechaEntrega date,
+Observaciones varchar(40) not null,
+Cantidad int not null,
+primary key(Npedido))Engine=innodb;
+
+describe pedido;
+
+create table servicio(
+Cod_servicio int(10),
+Fecha_servicio varchar(40),
+Tipo_servicio varchar(40),
+Identificacion int(20),
+Valor int(10),
+primary key (Cod_servicio)) ENGINE=InnoDB;
+
+describe servicio;
+
+create table productos(
+codigoProd int not null primary key,
+nombreProd varchar(40) not null,
+descripcionProd varchar(50)not null,
+valor_compraProd varchar(20)not null,
+valor_ventaProd varchar(20)not null,
+cantidad int not null
+)ENGINE=Innodb;
+
+describe productos;
+
+create table inventarios(
+codigoInv int primary key not null,
+descripcionInv varchar(30) not null,
+fechaInv date not null,
+fabricanteInv varchar(30) not null,
+codigoVen int not null,
+observacionesinv varchar(50) not null
+)ENGINE=Innodb;
+
+describe inventarios;
+
+create table nomina(
+codigoN int not null primary key,
+cedulaTec int not null,
+hraiNom varchar(20) not null,
+hratNom varchar(20) not null,
+hrsexNom int not null,
+thorasNom int not null,
+segsocialNom int not null,
+transporteNom int not null,
+tpagoNom int not null)ENGINE=Innodb;
+
+describe nomina;
+
+create table facturacion(
+cod_factura int(10),
+fecha_factura varchar(40),
+identificacion int(20),
+nombre varchar(40),
+direccion varchar(30),
+telefono int(20),
+celular int(20))ENGINE=Innodb;
+
+describe facturacion;
+
+create table gastos(
+codigoGas int not null primary key,
+fechaGas date not null,
+descripcionGas varchar(50) not null,
+valorGas int not null
+)ENGINE=Innodb;
+
+describe gastos;
+
+create table asociados (
+codigoasocia varchar (5) comment 'clave primaria',
+nombreasociado varchar (30),
+tipoasociado varchar (20),
+teleasociado varchar (10),
+emailasociado varchar (20),
+primary key (codigoasocia)) ENGINE=InnoDB;
+
+describe asociados;
+
+
+create table clave(
+Usuario varchar(40),
+Claveu varchar(30),
+primary key (Claveu)) ENGINE=InnoDB;
+
+insert into Clave values("henry","111");
+
+select * from Clave;
+
+describe usuarios;
+describe productos;
+describe ventas;
+describe gastos;
+describe inventarios;
+describe nomina;
+describe clave;
+
+insert into empleado values
+
+("E001","LEIDY","GALEANO","AV6_No9_9","31299","Facturador"),
+("E002","OCTAVIO","SUAZA","Cra5_No3_5","311654","Vendedor"),
+("E003","EDWIN","","Cll2_No5_8","310342","Administrador");
+
+insert into Usuarios values("2334","carlos mario","calle 10o","34455","@ malt");
+insert into Usuarios values("2333","carlos mario ser","calle 10dfsd","3445235","@ fsffsmalt");
+insert into Usuarios values("2433","carlos  ser","calle sd","3445","@ fsalt");
+
+insert into ventas values("152","25425","3215425425","2012/12/10","informal","cepillo","5","5000");
+insert into ventas values("524","3654","3162544254","2017/10/11","formal","televisor","4","300000");
+
+insert into zonaventas values("231","carlos mario","medellin","cr8 # 30-25");
+insert into zonaventas values("254","pedro henrriquez","bogota","cr25 # 35-50");

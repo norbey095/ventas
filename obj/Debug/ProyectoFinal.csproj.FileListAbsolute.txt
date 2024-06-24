@@ -1,0 +1,64 @@
+D:\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+D:\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+D:\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+D:\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+D:\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+D:\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+D:\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+D:\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.exe.config
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+F:\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+F:\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+F:\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+F:\ProyectoFinal\bin\Debug\MySql.Data.dll
+F:\ProyectoFinal\bin\Debug\Google.Protobuf.dll
+F:\ProyectoFinal\bin\Debug\ZstdNet.dll
+F:\ProyectoFinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\ProyectoFinal\bin\Debug\BouncyCastle.Crypto.dll
+F:\ProyectoFinal\bin\Debug\Ubiety.Dns.Core.dll
+F:\ProyectoFinal\bin\Debug\System.Buffers.dll
+F:\ProyectoFinal\bin\Debug\K4os.Compression.LZ4.dll
+F:\ProyectoFinal\bin\Debug\K4os.Hash.xxHash.dll
+F:\ProyectoFinal\bin\Debug\MySql.Data.xml
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+F:\ProyectoFinal\obj\Debug\ProyectoFinal.login.resources
+C:\Users\Sala 101\Desktop\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Sala 101\Desktop\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Sala 101\Desktop\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Sala 101\Desktop\ProyectoFinal\bin\Debug\MySql.Data.dll
+C:\Users\Sala 101\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Sala 101\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sala 101\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\Sala 101\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.login.resources
+C:\Users\Sala 101\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Sala 101\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Sala 101\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Sala 101\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\Sala 101\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Sala 101\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.login.resources
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\diana.escobar\Desktop\Censa\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Empleados.resources
